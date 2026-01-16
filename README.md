@@ -1,2 +1,2 @@
-# Proyectos Html
-Repositorio para mis ejercicios y proyectos de Html en el ciclo.
+# HTML Projects
+Repository for my HTML exercises and projects in the semester.
